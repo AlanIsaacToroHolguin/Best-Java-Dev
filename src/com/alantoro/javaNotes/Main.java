@@ -9,5 +9,6 @@ public class Main {
         com.alantoro.javaNotes.DataTypesDemo .run();
         com.alantoro.javaNotes. PrimitiveVsReference.run();
         com.alantoro.javaNotes.FinalVariableDemo.run();
+        com.alantoro.javaNotes.MathOperators.run();
     }
 }
