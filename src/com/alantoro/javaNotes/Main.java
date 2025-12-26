@@ -1,0 +1,13 @@
+package com.alantoro.javaNotes;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello and welcome!");
+
+
+        // Llamadas de ejemplo a otras clases de tus apuntes:
+        com.alantoro.javaNotes.DataTypesDemo .run();
+        com.alantoro.javaNotes. PrimitiveVsReference.run();
+        com.alantoro.javaNotes.FinalVariableDemo.run();
+    }
+}
