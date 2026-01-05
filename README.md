@@ -5,7 +5,7 @@
 
 ---
 ## A comprehensive review of core Java concepts and fundamentals. This repository serves as a personal learning resource to reinforce essential Java topics        
-- **https://github.com/AlanIsaacToroHolguin/TodoJavaReview
+- https://github.com/AlanIsaacToroHolguin/TodoJavaReview
 ---
 
 ---
