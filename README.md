@@ -3,8 +3,9 @@
 > **Mission**: I’ve decided to follow a clear path to become the best Java backend developer. I will master Java first and then Spring Boot. This commitment follows an opportunity to shadow at my current company, and I’m determined to give my absolute best.
 
 
-
+---
 ## A comprehensive review of core Java concepts and fundamentals. This repository serves as a personal learning resource to reinforce essential Java topics shttps://github.com/AlanIsaacToroHolguin/TodoJavaReview
+---
 
 ---
 
